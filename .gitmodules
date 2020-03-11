@@ -1,0 +1,6 @@
+[submodule "files"]
+	path = files
+	url = git@github.com:detherionx/files
+[submodule ".local"]
+	path = .local
+	url = git@github.com:detherionx/local_config
